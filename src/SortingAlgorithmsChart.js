@@ -29,12 +29,12 @@ const SortingAlgorithmsChart = () => {
         random: convertToSeconds("2.15 min"),
       },
       bubbleSort: {
-        ordered: convertToSeconds("41 min"),
+        ordered: convertToSeconds("4.1 min"),
         inverted: convertToSeconds("7.71 min"),
         random: convertToSeconds("11 min"),
       },
       selectionSort: {
-        ordered: convertToSeconds("41 min"),
+        ordered: convertToSeconds("4.1 min"),
         inverted: convertToSeconds("7.51 min"),
         random: convertToSeconds("4.8 min"),
       },
